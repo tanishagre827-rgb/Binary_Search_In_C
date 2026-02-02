@@ -1,1 +1,2 @@
 # Binary_Search_In_C
+# Binary Search is an efficient searching algorithm used to find the position of a target element in a sorted array. It works by repeatedly dividing the search interval in half until the target value is found or the interval becomes empty.This program demonstrates the implementation of the Binary Search algorithm using C, allowing users to search for an element in a sorted list of numbers.
